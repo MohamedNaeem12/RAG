@@ -9,8 +9,9 @@ this is implementaion of the RAG project for QA
 
 
 
-#### to run fastapi as a server 
+## Running fastapi as a server 
 we will use uvicorn 
 '''bash
 $uvicorn main:app --reload --host 0.0.0.0 --port  5000
 '''
+## Install postman
