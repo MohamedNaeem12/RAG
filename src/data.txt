@@ -1,2 +1,0 @@
-Test data for upload
-This is a sample file
